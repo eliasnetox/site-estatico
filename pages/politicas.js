@@ -7,7 +7,7 @@ function politicas() {
         <Link href="/">
             <a>Acessar pagina Home</a>
         </Link>
-        </div>
+    </div>)
 }
 
 export default politicas
